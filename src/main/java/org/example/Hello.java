@@ -9,5 +9,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello git-maven");
         System.out.println("hello nihao");
+        System.out.println("hello nixx");
     }
 }
