@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hello nihao");
         System.out.println("hello nixx");
         System.out.println("hello xiaoyu");
+        System.out.println("hello master");
     }
 }
