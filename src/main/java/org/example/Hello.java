@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello git-maven");
         System.out.println("hello nihao");
         System.out.println("hello nixx");
+        System.out.println("hello xiaoyu");
     }
 }
