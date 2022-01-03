@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
         System.out.println("ssh push");
+        System.out.println("ssh pull");
     }
 }
